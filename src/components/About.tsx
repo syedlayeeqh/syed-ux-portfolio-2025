@@ -39,6 +39,7 @@ const About = () => {
               className="w-32 h-32 rounded-full object-cover border-4 border-primary/20"
             />
           </div>
+          
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             A design professional blending creativity with strategic thinking, 
             I bring 7+ years of experience in user experience and product design across web and mobile platforms. 
