@@ -1,0 +1,14 @@
+{
+  "appId": "app.lovable.8c91d4dbcdb84725b6707339d5a31653",
+  "appName": "showcase-sparkle-41",
+  "webDir": "dist",
+  "server": {
+    "url": "https://8c91d4db-cdb8-4725-b670-7339d5a31653.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
